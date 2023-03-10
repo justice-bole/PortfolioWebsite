@@ -1,2 +1,3 @@
 # Justice-Bole-Website
- My portfolio website
+ My now deprecated portfolio website
+ See my new site at justicebole.com/
